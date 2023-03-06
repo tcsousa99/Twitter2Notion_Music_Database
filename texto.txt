@@ -1,0 +1,476 @@
+1: Daniel Caesar - "CASE STUDY 01"
+Genre: R&B
+Year: 2019
+Rating: 7/10
+Image
+2: A$AP Mob - "Cozy Tapes: Vol. 1 Friends -"
+Genre: Hiphop, Trap
+Year: 2016
+Rating: 3/10 (-)
+Image
+3: Kenny Mason - "Angelic Hoodrat: Supercut"
+Genre: Trap, Southern Hip Hop
+Year: 2021
+Rating: 4/10
+Image
+4: Daft Punk - "Random Access Memories"
+Genre: Disco, Electronic
+Year: 2013
+Rating: 8/10
+Image
+5: Fleetwood Mac - "Rumours"
+Genre: Pop Rock, Soft Rock
+Year: 1977
+Rating: 7/10 (+)
+Image
+6: The Beach Boys - "Pet Sounds"
+Genre: Baroque Pop
+Year: 1966
+Rating: 5/10 (+)
+Image
+7: Stevie Wonder - "Songs In The Key Of Life"
+Genre: R&B, Soul
+Year: 1976
+Rating: 8/10 (-)
+Image
+8: The Beatles - "Abbey Road"
+Genre: Pop Rock
+Year: 1969
+Rating: 7/10 (-)
+Image
+9: Prince and the Revolution - "Purple Rain"
+Genre: Pop Rock, Film Soundtrack, Synth Funk
+Year: 1984
+Rating: 6/10 (-)
+Image
+10: Bob Dylan - "Highway 61 Revisited"
+Genre: Folk Rock, Blues Rock, Rock And Roll
+Year: 1965
+Rating: 7/10
+Image
+11: Bon Iver - "22 A Million"
+Genre: Folktronica, Art Pop, Electronic
+Year: 2016
+Rating: 7/10 (+)
+Image
+12: Novo Amor - "Birthplace"
+Genre: Indie Folk
+Year: 2018
+Rating: 5/10
+Image
+13: Feed me Jack - "Chumpfrey"
+Genre: Indie Rock
+Year: 2015
+Rating: 6/10
+Image
+14: Alfa Mist - "Antiphon"
+Genre: Jazz
+Year: 2017
+Rating: 6/10
+Image
+15: Sun Kil Moon - "Benji"
+Genre: Folk Rock, Indie Folk
+Year: 2014
+Rating: 7/10
+Image
+16: D'Angelo - "Voodoo"
+Genre: Neo Soul, R&B
+Year: 2000
+Rating: 6/10
+Image
+17: The Jimi Hendrix Experience - "Are You Experienced"
+Genre: Psychedelic Rock, Hard Rock
+Year: 1967
+Rating: 6/10 (-)
+Image
+18: Miles Davis - "Kind of Blue"
+Genre: Modal Jazz
+Year: 1959
+Rating: 7/10 (-)
+Image
+19: Beyoncé - "Lemonade"
+Genre: R&B, Art Pop
+Year: 2016
+Rating: 7/10
+Image
+20: The Velvet Underground - "The Velvet Underground and Nico"
+Genre: Art Rock, Experimental Rock
+Year: 1967
+Rating: 5/10 (+)
+Image
+21: Stevie Wonder - "Innervisions"
+Genre: R&B, Soul
+Year: 1973
+Rating: 7/10
+Image
+22: Bob Dylan - "Blonde on Blonde"
+Genre: Folk Rock, Blues Rock, Rock And Roll
+Year: 1966
+Rating: 8/10 (+)
+Image
+23: Talking Heads - "Remain in Light"
+Genre: New Wave, Funk, Post-Punk
+Year: 1980
+Rating: 6/10 (+)
+Image
+24: The Rolling Stones - "Let It Bleed"
+Genre: Hard Rock, Blues Country, Blues
+Year: 1969
+Rating: 9/10 (-)
+
+
+Image
+25: Jimi Hendrix - "Electric Ladyland"
+Genre: Psychedelic Rock, Hard Rock
+Year: 1968
+Rating: 6/10 (-)
+Image
+26: Kate Bush - "Hounds of Love"
+Genre: Art Pop, Progressive Pop
+Year: 1985
+Rating: 7/10
+Image
+27: My Bloody Valentine - "Loveless"
+Genre: Shoegaze, Dream pop
+Year: 1991
+Rating: 8/10 (-)
+Image
+28: AC/DC - "Back in Black"
+Genre: Hard Rock, Heavy Metal
+Year: 1980
+Rating: 6/10
+Image
+29: Miles Davis - "Bitches Brew"
+Genre: Jazz Fusion, Experimental Jazz
+Year: 1969
+Rating: 7/10 (-)
+Image
+30: The Strokes - "Is This It"
+Genre: Indie Rock, Garage Rock Revival
+Year: 2001
+Rating: 9/10
+Image
+31: Portishead - "Dummy"
+Genre: Trip Hop
+Year: 1994
+Rating: 6/10 (+)
+Image
+32: Nine Inch Nails - "The Downward Spiral"
+Genre: Industrial Rock, Alternative Rock
+Year: 1994
+Rating: 4/10 (-)
+Image
+33: Taylor Swift - "folklore"
+Genre: Indie Folk, Alternative Rock
+Year: 2020
+Rating: 6/10 (+)
+Image
+34: My Chemical Romance - "The Black Parade"
+Genre: Emo, Pop Punk
+Year: 2006
+Genre: 7/10 (-)
+Image
+35: Aphex Twin - "Selected Ambient Works 85-92"
+Genre: Ambient Techno, IDM
+Year: 1992
+Rating: 7/10 (+)
+Image
+36: Daft Punk - "Discovery"
+Genre: French House, Disco
+Year: 2001
+Rating: 6/10 (+)
+Image
+37: Taylor Swift - "evermore"
+Genre: Alternative Rock, Folk Pop
+Year: 2020
+Rating: 7/10
+Image
+38: The Beatles - "Revolver"
+Genre: Rock, Pop
+Year: 1966
+Rating: 5/10
+Image
+39: Patti Smith - "Horses"
+Genre: Punk Rock, Art Punk
+Year: 1975
+Rating: 6/10 (+)
+Image
+40: King Crimson - "In the Court of the Crimson King"
+Genre: Progressive Rock
+Year: 1969
+Rating: 8/10 (+)
+Image
+41: Panchiko - "D>E>A>T>H>M>E>T>A>L"
+Genre: Indie Rock, Dream Pop
+Year: 2000
+Rating: 7/10
+Image
+42: The Doors - "The Doors"
+Genre: Psychedelic Rock, Hard Rock
+Year: 1967
+Rating: 7/10
+Image
+43: Sufjan Stevens - Illinois
+Genre: Indie Folk, Chamber Folk
+Year: 2005
+Rating: 9/10 (-)
+Image
+44: Morphine - "Cure for Pain"
+Genre: Alternative Rock, Jazz Rock
+Year: 1993
+Rating: 8/10 (-)
+Image
+45: John Coltrane - "A Love Supreme"
+Genre: Modal Jazz, Avant-garde Jazz
+Year: 1965
+Rating: 6/10 (+)
+Image
+46: Car Seat Headrest - "Twin Fantasy"
+Genre: Indie Rock
+Year: 2018
+Rating: 8/10 (+)
+Image
+47: Big Bud - "Infinity + Infinity"
+Genre: Atmospheric Drum and Bass
+Year: 1999
+Rating: 7/10
+Image
+48: Iggy Pop - "Lust For Life"
+Genre: Art Rock, Garage Rock
+Year: 1977
+Rating: 8/10
+Image
+49: Bruce Springsteen - "Born to Run"
+Genre: Rock And Roll
+Year: 1975
+Rating: 6/10 (+)
+
+Image
+50: Everything Everything - "Get To Heaven"
+Genre: Art Pop, Art Rock
+Year: 2015
+Rating: 7/10
+
+(atrasado)
+Image
+51: Radiohead - "The Bends"
+Genre: Alternative Rock
+Year: 1995
+Rating: 8/10
+Image
+52: Father John Misty - "Pure Comedy"
+Genre: Indie Folk, Indie Rock
+Year: 2017
+Rating: 7/10 (-)
+Image
+53: Fishmans - "98.12.28 男達の別れ (98.12.28 Otokotachi no Wakare)"
+Genre: Dream Pop, Neo-Psychedelia
+Year: 1999
+Rating: 8/10 (-)
+Image
+54: Weezer - "Weezer"
+Genre: Alternative Rock, Dream Pop
+Year: 1994
+Rating: 4/10
+Image
+55: Slowdive - "Souvlaki"
+Genre: Shoegaze, Dream Pop
+Year: 1993
+Rating: 6/10
+Image
+56: Sweet Trip - "velocity : design : comfort."
+Genre: Glitch Pop, IDM, Shoegaze
+Year: 2003
+Rating: 6/10 (+)
+Image
+57: The Strokes - "Room on Fire"
+Genre: Indie Rock, Garage Rock Revival
+Year: 2003
+Rating: 7/10 (+)
+Image
+58: Slint - "Spiderland"
+Genre: Post-Hardcore, Post-Rock
+Year: 1991
+Rating: 7/10 (+)
+Image
+59: Bob Marley and the Wailers - "Exodus"
+Genre: Reggae
+Year: 1977
+Rating: 7/10
+Image
+60: Stevie Wonder - "Talking Book"
+Genre: Progressive Soul, Funk
+Year: 1972
+Rating: 7/10 (-)
+
+(atrasado)
+Image
+61: The Beatles - "Sgt. Pepper's Lonely Hearts Club Band"
+Genre: Rock, Pop
+Year: 1967
+Rating: 7/10
+
+(atrasado)
+Image
+62: Ramones - "Ramones"
+Genre: Punk Rock
+Year: 1976
+Rating: 3/10
+Image
+63: Lou Reed - "Transformer"
+Genre: Glam Rock, Pop Rock
+Year: 1972
+Rating: 8/10
+Image
+64: Led Zeppelin - Led Zeppelin IV
+Genre: Hard Rock
+Year: 1971
+Rating: 7/10 (+)
+Image
+65: LCD Soundsystem - This Is Happening
+Genre: Dance-Punk
+Year: 2010
+Rating: 7/10
+Image
+66: Flying Lotus - Cosmogramma
+Genre: IDM, Glitch Hop
+Year: 2010
+Rating: 8/10 (-)
+Image
+67: Sampha - "Process"
+Genre: Alternative R&B, Neo-Soul
+Year: 2017
+Rating: 7/10 (+)
+Image
+68: 2814 - " 新しい日の誕生"
+Genre: Ambient, Dreampunk
+Year: 2015
+Rating: 7/10
+Image
+69: Joy Division - "Unknown Pleasures"
+Genre: Post-Punk
+Year: 1979
+Rating: 7/10 (-)
+Image
+70: Elvis Presley - "Elvis Presley"
+Genre: Rock & Roll
+Year: 1956
+Rating: 6/10 (+)
+Image
+71: Rihanna - "ANTI"
+Genre: Contemporary R&B & Alternative R&B
+Year: 2016
+Rating: 8/10
+Image
+72: Nick Drake - "Pink Moon"
+Genre: Contemporary Folk
+Year: 1972
+Rating: 7/10 (+)
+Image
+73: Radiohead - "A Moon Shaped Pool"
+Genre: Art Rock
+Year: 2016
+Rating: 7/10 (+)
+Image
+74: KAYTRANADA - 99.9%
+Genre: Alternative R&B
+Year: 2016
+Rating: 8/10 (-)
+Image
+75: Fleet Foxes - "Helplessness Blues"
+Genre: Indie Folk, Chamber Folk
+Year: 2011
+Rating: 7/10 (-)
+Image
+76: The Voidz - "Virtue"
+Genre: Art Rock, Neo-Psychedelia
+Year: 2018
+Rating: 7/10
+Image
+77: Black Sabbath - "Paranoid"
+Genre: Heavy Metal, Hard Rock
+Year: 1970
+Rating: 6/10 (+)
+Image
+78: Al Green - "Let's Stay Together"
+Genre: Smooth Soul
+Year: 1972
+Rating: 7/10 (+)
+
+(atrasado)
+Image
+79: The War On Drugs - "Lost In The Dream"
+Genre: Indie Rock
+Year: 2014
+Rating: 7/10
+Image
+80: Swans - "Soundtracks for the Blind"
+Genre: Experimental Rock
+Year: 1996
+Rating: 7/10
+Image
+81: Flying Lotus - "You're Dead!"
+Genre: Nu Jazz, Wonky
+Year: 2014
+Rating: 7/10 (+)
+Image
+82: Queen - "News of the World"
+Genre: Pop Rock
+Year: 1977
+Rating: 5/10 (-)
+Image
+83: Captain Beefheart & His Magic Band - "Trout Mask Replica"
+Genre: Experimental Rock
+Year: 1969
+Rating: 2/10
+Image
+84: Elton John - "Goodbye Yellow Brick Road"
+Genre: Pop Rock
+Year: 1973
+Rating: 7/10 (-)
+Image
+85: Eagles - "Hotel California"
+Genre: Pop Rock, Soft Rock
+Year: 1976
+Rating: 6/10 (+)
+Image
+86: Meat Loaf - "Bat Out of Hell"
+Genre: Rock Opera, Pop Rock
+Year: 1977
+Rating: 7/10 (-)
+
+(atrasado)
+Image
+87: King Gizzard & The Lizard Wizard - "Butterfly 3000"
+Genre: Neo-Psychedelia, Psychedelic Pop
+Year: 2021
+Rating: 7/10
+Image
+88: MGMT - "Oracular Spectacular"
+Genre: Indietronica, Indie Pop
+Year: 2007
+Rating: 8/10
+
+(atrasado)
+Image
+89: Gorillaz - "Plastic Beach"
+Genre: Electropop, Art Pop
+Year: 2010
+Rating: 6/10
+Image
+90: Frank Sinatra - "In the Wee Small Hours"
+Genre: Vocal Jazz
+Year: 1955
+Rating: 7/10 (-)
+Image
+91: The Microphones - "The Glow Pt. 2"
+Genre: Indie Folk, Psychedelic Folk
+Year: 2001
+Rating: 6/10
+
+(atrasado)
+Image
+
+
+　
+
