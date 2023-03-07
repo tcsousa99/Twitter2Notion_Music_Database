@@ -118,7 +118,6 @@ Genre: Hard Rock, Blues Country, Blues
 Year: 1969
 Rating: 9/10 (-)
 
-
 Image
 25: Jimi Hendrix - "Electric Ladyland"
 Genre: Psychedelic Rock, Hard Rock
@@ -244,13 +243,11 @@ Image
 Genre: Rock And Roll
 Year: 1975
 Rating: 6/10 (+)
-
 Image
 50: Everything Everything - "Get To Heaven"
 Genre: Art Pop, Art Rock
 Year: 2015
 Rating: 7/10
-
 (atrasado)
 Image
 51: Radiohead - "The Bends"
@@ -302,14 +299,12 @@ Image
 Genre: Progressive Soul, Funk
 Year: 1972
 Rating: 7/10 (-)
-
 (atrasado)
 Image
 61: The Beatles - "Sgt. Pepper's Lonely Hearts Club Band"
 Genre: Rock, Pop
 Year: 1967
 Rating: 7/10
-
 (atrasado)
 Image
 62: Ramones - "Ramones"
@@ -396,7 +391,6 @@ Image
 Genre: Smooth Soul
 Year: 1972
 Rating: 7/10 (+)
-
 (atrasado)
 Image
 79: The War On Drugs - "Lost In The Dream"
@@ -438,7 +432,6 @@ Image
 Genre: Rock Opera, Pop Rock
 Year: 1977
 Rating: 7/10 (-)
-
 (atrasado)
 Image
 87: King Gizzard & The Lizard Wizard - "Butterfly 3000"
@@ -450,7 +443,6 @@ Image
 Genre: Indietronica, Indie Pop
 Year: 2007
 Rating: 8/10
-
 (atrasado)
 Image
 89: Gorillaz - "Plastic Beach"
@@ -467,10 +459,382 @@ Image
 Genre: Indie Folk, Psychedelic Folk
 Year: 2001
 Rating: 6/10
-
 (atrasado)
 Image
 
-
 　
-
+92: Leonard Cohen - "Songs of Leonard Cohen"
+Genre: Contemporary Folk
+Year: 1967
+Rating: 7/10
+(atrasado, p variar) 
+93: The Zombies - "Odessey and Oracle"
+Genre: Psychedelic Pop, Baroque Pop
+Year: 1968
+Rating: 6/10 
+94: Johnny Cash - "At Folsom Prison"
+Genre: Country
+Year: 1968
+Rating: 7/10 (+) 
+95: Lady Gaga - "Born This Way"
+Genre: Dance-Pop, Electropop
+Year: 2011
+Rating: 4/10 
+96: Billy Joel - "52nd Street"
+Genre: Pop Rock, Piano Rock
+Year: 1978
+Rating: 7/10 (-) 
+97: Bon Iver - "For Emma, Forever Ago"
+Genre: Indie Folk
+Year: 2007
+Rating: 8/10
+(atrasado) 
+98: Green Day - "American Idiot"
+Genre: Pop Punk, Alternative Rock
+Year: 2004
+Rating: 7/10 
+99: Kacey Musgraves - "Golden Hour"
+Genre: Country Pop
+Year: 2018
+Rating: 8/10 (-) 
+100: Big Time Rush - "BTR"
+Genre: Teen Pop
+Year: 2010
+Rating: 10/10 
+101: Yeat - 2 Alivë
+Genre: Alternative Hip-Hop
+Year: 2022
+Rating: 2/10 
+102: Rick James - "Street Songs"
+Genre: Synth Funk, Contemporary R&B
+Year: 1981
+Rating: 8/10 
+103: The Strokes - "The New Abnormal"
+Genre: Indie Rock
+Year: 2020
+Rating: 9/10 
+104: Pixies - "Doolitle"
+Genre: Alternative Rock, Indie Rock
+Year: 1989
+Rating: 5/10 (-) 
+105: The Clash - "London Calling"
+Genre: New Wave, Punk Rock
+Year: 1979
+Rating: 7/10 (+) 
+106: Bring Me The Horizon - "Music to Listen"
+Genre: Eletronic Dance Music, Electronic
+Year: 2019
+Rating: 8/10
+(atrasado) 
+107: Foster The People - "Torches"
+Genre: Indie Pop
+Year: 2011
+Rating: 6/10 
+108: Adele - "21"
+Genre: Pop Soul
+Year: 2011
+Rating: 6/10 
+109: Barbra Streisand - "The Barbra Streisand Album"
+Genre: Traditional Pop
+Year: 1963
+Rating: 5/10 
+110: Gorillaz - "Demon Days"
+Genre: Art Pop, Trip Hop
+Year: 2005
+Rating: 8/10 (+) 
+111: The White Stripes - "Elephant"
+Genre: Garage Rock Revival, Alternative Rock
+Year: 2003
+Rating: 8/10 (-)
+(atrasado) 
+112: Grimes - "Art Angels"
+Genre: Electropop, Synthpop
+Year: 2015
+Rating: 6/10 (+) 
+113: Arcade Fire - "The Suburbs"
+Genre: Indie Rock
+Year: 2010
+Rating: 7/10 
+114: Blur - "13"
+Genre: Alternative Rock
+Year: 1999
+Rating: 4/10
+(atrasado) 
+115: Interpol - "Turn On the Bright Lights"
+Genre: Post-Punk Revival
+Year: 2002
+Rating: 8/10 
+116: Santana - "Supernatural"
+Genre: Pop Rock, Latin Rock
+Year: 1999
+Rating: 8/10 (-) 
+117: Kevin Abstract - "ARIZONA BABY"
+Genre: Pop Rap, Alternative R&B
+Year: 2019
+Rating: 7/10 
+118: the pillows - フリクリ (FLCL): OST 1 ~ Addict
+Genre: Power Pop, J-Rock
+Year: 2000
+Rating: 7/10 (+) 
+119: Julian Casablancas - "Phrazes For The Young"
+Genre: Alternative Rock
+Year: 2009
+Rating: 5/10 
+(atrasado) 
+120: Stella Donnelly - "Beware of the Dogs"
+Genre: Indie Pop
+Year: 2009
+Rating: 7/10 (-) 
+121: Whitney Houston - "Whitney Houston"
+Genre: Contemporary R&B, Pop
+Year: 1985
+Rating: 6/10 (+)
+(atrasado) 
+122: Car Seat Headrest - "Teens Of Denial"
+Genre: Indie Rock
+Year: 2016
+Rating: 8/10 (-) 
+123: Rage Against The Machine - "Rage Against The Machine"
+Genre: Rap Metal, Alternative Metal
+Year: 1992
+Rating: 5/10 (-)
+(atrasado) 
+124: Animal Collective - "Merriweather Post Pavilion"
+Genre: Psychedelic Pop, Neo-Psychedelia
+Year: 2009
+Rating: 6/10 (+)
+(atrasado) 
+125: Metallica - "Metallica"
+Genre: Heavy Metal
+Year: 1991
+Rating: 6/10 
+126: R.E.M. - "Out Of Time"
+Genre: Alternative Rock, Jangle Pop
+Year: 1991
+Rating: 7/10 
+127: U2 - "Achtung Baby"
+Genre: Alternative Rock, Pop Rock
+Year: 1991
+Rating: 6/10 
+128: Weatherday - "Come In"
+Genre: Noise Pop
+Year: 2019
+Rating: 3/10 (-) 
+129: The Rolling Stones - "Exile On Main Street"
+Genre: Blues Rock
+Year: 1972
+Rating: 5/10 
+130: Elliot Smith - "Either/Or"
+Genre: Indie Folk
+Year: 1997
+Rating: 8/10 (-) 
+131: George Michael - "Faith"
+Genre: Pop
+Year: 1987
+Rating: 4/10
+(atrasado) 
+132: Thom Yorke - "The Eraser"
+Genre: Eletronic, Glitch Pop
+Year: 2006
+Rating: 8/10
+(atrasado por 2 mins lol) 
+133: Mac DeMarco - "Salad Days"
+Genre: Jangle Pop, Psychedelic Pop
+Year: 2014
+Rating: 7/10 (+)
+(atrasado) 
+134: Phoebe Bridgers - "Stranger in the Alps"
+Genre: Indie Folk
+Year: 2017
+Rating: 8/10
+(atrasado) 
+135: Men I Trust - "Oncle Jazz"
+Genre: Sophisti-Pop, Bedroom Pop
+Year: 2019
+Rating: 6/10 (+)
+(atrasado) 
+136: Her's - "Songs of Her's"
+Genre: Bedroom Pop, Indie Pop
+Year: 2017
+Rating: 5/10 
+137: Red Hot Chili Peppers - "Californication"
+Genre: Alternative Rock
+Year: 1999
+Rating: 7/10 (+)
+(atrasado) 
+138: Nujabes - "Metaphorical Music"
+Genre: Jazz Rap, Instrumental Hip-Hop
+Year: 2003
+Rating: 8/10 (-) 
+139: Steve Lacy - "Apollo XXI"
+Genre: Neo-Soul
+Year: 2019
+Rating: 6/10 (+) 
+140: American Football - "American Football"
+Genre: Midwest Emo
+Year: 1999
+Rating: 7/10 (+)
+(atrasado) 
+141: 百景 - "Standing Still in a Moving Scene"
+Genre: Post-Rock
+Year: 2006
+Rating: 8/10 (-) 
+142: Yes - "Close to the Edge"
+Genre: Progressive Rock
+Year: 1972
+Rating: 5/10 
+143: Pink Floyd - "The Wall"
+Genre: Rock Opera, Art Rock
+Year: 1979
+Rating: 6/10
+(atrasado) 
+144: Fishmans - "LONG SEASON"
+Genre: Dream Pop, Neo-Psychedelia
+Year: 1996
+Rating: 9/10 (-) 
+145: Mount Eerie - "A Crow Looked at Me
+Genre: Indie Folk
+Year: 2017
+Rating: 5/10
+(atrasado) 
+146: Nina Simone - "Wild Is The Wind"
+Genre: Vocal Jazz, Soul
+Year: 1966
+Rating: 6/10 (+) 
+147: Milton Nascimento & Lô Borges - "Clube da Esquina"
+Genre: MPB
+Year: 1972
+Rating: 5/10 (-) 
+148: Jamiroquai - ""The Return of the Space Cowboy"
+Genre: Acid Jazz, Funk
+Year: 1994
+Rating: 5/10 (+)
+(atrasado) 
+149: my bloody valentine - "m b v"
+Genre: Shoegaze, Dream Pop
+Year: 2013
+Rating: 6/10 
+150: The 13th Floor Elevators - "The Psychedelic Sounds of The 13th Floor Elevators"
+Genre: Psychedelic Rock
+Year: 1966
+Rating: 4/10 
+151: Parannoul - "To See the Next Part of the Dream"
+Genre: Shoegaze, Emo
+Year: 2021
+Rating: 6/10
+(atrasado) 
+152: Charles Mingus - "The Black Saint And The Sinner Lady"
+Genre: Avant-Garde Jazz
+Year: 1963
+Rating: 6/10
+(atrasado) 
+153: Tom Waits - "Rain Dogs"
+Genre: Experimental Rock
+Year: 1985
+Rating: 3/10 (+)
+(atrasado) 
+154: Frank Zappa - "Hot Rats"
+Genre: Jazz-Rock, Jazz Fusion
+Year: 1969
+Rating: 5/10
+(atrasado) 
+155: Jazmine Sullivan - "Heaux Tales"
+Genre: Contemporary R&B, Neo-Soul
+Year: 2022
+Rating: 6/10 (+)
+(atrasado) 
+156: Blood, Sweat & Tears - "Blood, Sweat & Tears"
+Genre: Jazz-Rock
+Year: 1969
+Rating: 6/10 (+)
+(atrasado) 
+157: Isaac Hayes - "Shaft"
+Genre: Soul, Funk
+Year: 1971
+Rating: 7/10 (-)
+(atrasado) 
+158: Porter Robinson - "Nurture"
+Genre: Electropop, Synthpop
+Year: 2021
+Rating: 4/10 (-)
+(atrasado) 
+159: King Crimson - "Red"
+Genre: Progressive Rock, Art Rock
+Year: 1974
+Rating: 7/10 (+)
+(atrasado) 
+160: Pink Floyd - "Animals"
+Genre: Progressive Rock, Art Rock
+Year: 1977
+Rating: 6/10 (+)
+(atrasado) 
+161: The Cure - "Seventeen Seconds"
+Genre: Post-Punk, Gothic Rock
+Year: 1980
+Rating: 8/10 (-)
+(atrasado) 
+162: Tangerine Dream - "Phaedra"
+Genre: Berlin School
+Year: 1974
+Rating: 6/10
+(atrasado) 
+163: sports. - "Demon Daze"
+Genre: Midwest Emo
+Year: 2015
+Rating: 5/10 (-)
+(atrasado) 
+164: toe - "For Long Tomorrow"
+Genre: Math Rock
+Year: 2009
+Rating: 7/10 (-) 
+(atrasado) 
+165: Explosions In The Sky - "The Earth Is Not a Cold Dead Place"
+Genre: Post-Rock
+Year: 2003
+Rating: 7/10 (+)
+(atrasado) 
+166: Coldplay - "A Rush of Blood to the Head"
+Genre: Pop Rock
+Year: 2002
+Rating: 6/10 
+167: Billie Holiday - "Lady In Satin"
+Genre: Vocal Jazz
+Year: 1958
+Rating: 3/10 (+)
+(atrasado) 
+168: Joan Baez - "Joan Baez"
+Genre: Contemporary Folk
+Year: 1960
+Rating: 7/10
+(atrasado) 
+169: Sam Cooke - "One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963"
+Genre: Southern Soul
+Year: 1963
+Rating: 7/10
+(atrasado) 
+170: James Brown - "James Brown Live At The Apollo, 1962"
+Genre: Soul, Rhythm & Blues
+Year: 1963
+Rating: 6/10 
+171: João Gilberto & Stan Getz - "Getz/Gilberto"
+Genre: Bossa Nova
+Year: 1964
+Rating: 5/10 
+172: B.B. King - "Live At The Regal"
+Genre: Electric Blues, Soul Blues
+Year: 1965
+Rating: 6/10 
+173: The Who - "Who's Next"
+Genre: Hard Rock 
+Year: 1971
+Rating: 3/10 (+)
+(atrasado) 
+ 
+174: The Kinks - "Face to Face"
+Genre: Pop Rock
+Year: 1966
+Rating: 4/10 
+175: The Strokes - "First Impressions of Earth"
+Genre: Indie Rock, Garage Rock Revival
+Year: 2006
+Rating: 5/10 (+) 
